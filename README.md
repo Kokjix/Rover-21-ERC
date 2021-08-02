@@ -5,11 +5,11 @@ To Run this package you need
 1. Realsense ROS package
 
 After install realsense package run these following.
--cd catkin_ws
--source devel/setup.bash
+- cd catkin_ws
+- source devel/setup.bash
 
 First Terminal:
--roslaunch realsense2_camera rs_camera.launch
+- roslaunch realsense2_camera rs_camera.launch
 
 Second Terminal:
 - roslaunch darknet_ros yolo_v3.launch
