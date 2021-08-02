@@ -1,0 +1,3 @@
+<launch>
+ <node pkg="darknet_ros_msgs" name="yolodistance_v2" type="yolodistance_v2.py" output="screen"/> <!-- Run yolodistance_v2 script -->
+</launch>
