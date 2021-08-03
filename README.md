@@ -6,6 +6,7 @@ To Run this package you need
 
 After install realsense package run these following.
 - cd catkin_ws
+- catkin_make -DCMAKE_BUILD_TYPE=Release
 - source devel/setup.bash
 
 First Terminal:
