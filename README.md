@@ -22,4 +22,4 @@ After run this launch file detected object's 3D world coordinats published /auto
 This repository also contain Haar Cascade python script for panel detection it use realsense and OpenCV python 3 library and get 3D coordinats for panel components.
 
 In order to run this script run the following line
--python3 erc_buton_switch_socket.py
+- python3 erc_buton_switch_socket.py
