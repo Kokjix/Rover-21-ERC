@@ -4,7 +4,6 @@
 import cv2 
 import numpy as np
 from numpy.lib.polynomial import polyint
-from realsense_depth import *
 import pyrealsense2 as rs
 
 #kamera= cv2.VideoCapture(2)
